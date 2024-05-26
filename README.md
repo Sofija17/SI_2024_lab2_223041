@@ -3,6 +3,7 @@
 Софија Китановиќ, бр. на индекс 223041
 
 2) Control Flow Graph
+![Alt text](cfg_lab2.drawio.png)
 
 
 3) Цикломатска комплексност
